@@ -1,0 +1,6 @@
+product_id,name,brand,socket,form_factor,ddr_gen,max_ram_speed_mhz,source_url,source_type
+mobo-01,MSI B550-A PRO,MSI,AM4,ATX,DDR4,4400,https://www.msi.com/Motherboard/B550-A-PRO/Specification,manufacturer
+mobo-02,ASUS Prime B660M-A,ASUS,LGA1700,Micro-ATX,DDR4,5333,https://www.asus.com/in/motherboards-components/motherboards/prime/prime-b660m-a-d4/techspec/,manufacturer
+mobo-03,Gigabyte B650M DS3H,Gigabyte,AM5,Micro-ATX,DDR5,8000,https://www.gigabyte.com/Motherboard/B650M-DS3H-rev-10-11-12/sp,manufacturer
+mobo-04,ROG Crosshair X670E Hero,ASUS,AM5,ATX,DDR5,8000,https://rog.asus.com/motherboards/rog-crosshair/rog-crosshair-x670e-hero-model/spec/,manufacturer
+mobo-05,MSI MAG Z690 Tomahawk WiFi,MSI,LGA1700,ATX,DDR5,6400,https://www.msi.com/Motherboard/MAG-Z690-TOMAHAWK-WIFI/Specification,manufacturer

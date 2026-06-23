@@ -1,0 +1,6 @@
+product_id,name,brand,height_mm,max_tdp_rating_w,source_url,source_type
+cooler-01,be quiet! Pure Rock 2,be quiet!,155,150,https://www.bequiet.com/en/cpucooler/1841,Manufacturer
+cooler-02,be quiet! Pure Rock Slim 2,be quiet!,135,130,https://www.bequiet.com/en/cpucooler/2248,Manufacturer
+cooler-03,be quiet! Shadow Rock 3,be quiet!,163,190,https://www.bequiet.com/en/cpucooler/1743,Manufacturer
+cooler-04,be quiet! Dark Rock 4,be quiet!,163,250,https://www.bequiet.com/en/cpucooler/1376,Manufacturer
+cooler-05,be quiet! Dark Rock Pro 4,be quiet!,163,250,https://www.bequiet.com/en/cpucooler/1378,Manufacturer

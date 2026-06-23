@@ -1,0 +1,6 @@
+product_id,name,brand,ddr_gen,speed_mhz,capacity_gb,source_url,source_type
+ram-01,Crucial 16GB DDR4-3200,Crucial,DDR4,3200,16,https://www.crucial.com/memory/ddr4/ct16g4sfra32a?srsltid=AfmBOoqWqiFYDUVGRWuPEW3BZCAuWNHBh3Rtu-wUo-b3Ird8QYjkQ1Aq,manufacturer
+ram-02,G.Skill Ripjaws V 16GB DDR4-3200,G.Skill,DDR4,3200,16,https://www.gskill.com/specification/165/184/1536110676/F4-3200C16D-16GVKB-Specification,manufacturer
+ram-03,Corsair VENGEANCE LPX 32GB (2 x 16GB) DDR4 DRAM 4000MHz C18 ,Corsair,DDR4,4000,32,https://www.corsair.com/ww/en/p/memory/cmk32gx4m2z4000c18/vengeance-lpx-32gb-2-x-16gb-ddr4-dram-4000mhz-c18-memory-kit-black-cmk32gx4m2z4000c18,manufacturer
+ram-04,Kingston Fury Beast 16GB DDR5-5200,Kingston,DDR5,5200,16,https://www.kingston.com/en/memory/gaming/kingston-fury-beast-ddr5-rgb-memory?speed=5200mt%2Fs&total%20(kit)%20capacity=16gb&kit=single%20module&cas%20latency=40&dram%20density=16gbit&profile%20type=intel%20xmp&color=black,manufacturer
+ram-05,G.Skill Trident Z5 32GB DDR5-6000,G.Skill,DDR5,6000,32,https://www.gskill.com/specification/165/374/1735194233/F5-6000J2836G16GX2-TZ5RK-Specification,manufacturer

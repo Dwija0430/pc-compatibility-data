@@ -1,0 +1,6 @@
+product_id,name,brand,supported_form_factors,max_gpu_mm,max_cooler_mm,source_url,source_type
+case-01,Fractal Design Meshify C,Fractal Design,ATX; Micro-ATX,315,170,https://www.fractal-design.com/products/cases/meshify/meshify-c/black-tg-dark-tint/,manufacturer
+case-02,NZXT H510,NZXT,ATX; Micro-ATX,381,165,https://support.nzxt.com/hc/en-us/articles/37464879064347-H510-Series-Specs,manufacturer
+case-03,Corsair 4000D Airflow,Corsair,ATX; Micro-ATX,360,170,https://www.corsair.com/us/en/p/pc-cases/cc-9011200-ww/4000d-airflow-tempered-glass-mid-tower-atx-case-black-cc-9011200-ww?srsltid=AfmBOoo_FWjLkmODmC6YsyEQyId8uRFlrpImN0BBmxt9tS-JcoutcuB2,manufacturer
+case-04,be quiet! Pure Base 500DX,be quiet!,ATX; Micro-ATX,369,190,https://www.bequiet.com/en/case/1854,manufacturer
+case-05,Lian Li LANCOOL 215,Lian Li,ATX; Micro-ATX,370,166,https://lian-li.com/product/lancool-215/,manufacturer

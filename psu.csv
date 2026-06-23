@@ -1,0 +1,6 @@
+product_id,name,brand,wattage,efficiency_rating,source_url,source_type
+psu-01,Corsair CX550,Corsair,550,80+ Bronze,https://www.corsair.com/us/en/p/psu/cp-9020277-na/cx-series-cx550-550-watt-80-plus-bronze-atx-power-supply-cp-9020277-na?srsltid=AfmBOorxl56uO_AglWlutKA7X96VLrIKjISzI6ugosw9X25yAKTQ3Fi4,manufacturer
+psu-02,EVGA SuperNOVA 650 G6,EVGA,650,80+ Gold,https://www.evga.com/products/product.aspx.pn=220-GA-0650-X1.html,manufacturer
+psu-03,Seasonic Focus GX-750,Seasonic,750,80+ Gold,https://seasonic.com/focus-gx/,manufacturer
+psu-04,be quiet! Pure Power 11 FM 850W,be quiet!,850,80+ Gold,https://www.bequiet.com/en/powersupply/3610,manufacturer
+psu-05,Corsair RM1000x,Corsair,1000,80+ Gold,https://www.corsair.com/us/en/p/psu/cp-9020094-na/rmx-series-rm1000x-1000-watt-80-plus-gold-certified-fully-modular-psu-cp-9020094-na?srsltid=AfmBOorBttDNjkNSbPkJlksndVtgLRQ_Pc8KteI1MedxODFcLkWsYgkZ,manufacturer

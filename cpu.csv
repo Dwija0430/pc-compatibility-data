@@ -1,0 +1,6 @@
+product_id,name,brand,socket,tdp_w,ddr_support,tier,source_url,source_type
+cpu-01,AMD Ryzen 5 5600,AMD,AM4,65,DDR4,Budget,https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-5000-series/amd-ryzen-5-5600.html,Manufacturer
+cpu-02,Intel Core i5-12400,Intel,LGA1700,65,DDR4;DDR5,Budget,https://www.intel.com/content/www/us/en/products/sku/134586/intel-core-i512400-processor-18m-cache-up-to-4-40-ghz/specifications.html,Manufacturer
+cpu-03,AMD Ryzen 5 7600,AMD,AM5,65,DDR5,Mid,https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-5-7600.html,Manufacturer
+cpu-04,AMD Ryzen 7 7700X,AMD,AM5,105,DDR5,Mid,https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7700x.html,Manufacturer
+cpu-05,Intel Core i7-13700K,Intel,LGA1700,125,DDR4;DDR5,High,https://www.intel.com/content/www/us/en/products/sku/230500/intel-core-i713700k-processor-30m-cache-up-to-5-40-ghz/specifications.html,Manufacturer

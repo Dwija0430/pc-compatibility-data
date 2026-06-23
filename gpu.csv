@@ -1,0 +1,6 @@
+product_id,name,brand,tdp_w,length_mm,tier,source_url,source_type
+gpu-01,AMD Radeon RX 7600,AMD,165,204,Budget,https://www.amd.com/en/products/graphics/desktops/radeon/7000-series/amd-radeon-rx-7600.html#product-specs,manufacturer
+gpu-02,NVIDIA GeForce RTX 3060,NVIDIA,200,242,Budget,https://www.nvidia.com/en-in/geforce/graphics-cards/30-series/rtx-3060-3060ti/,manufacturer
+gpu-03,NVIDIA GeForce RTX 4070,NVIDIA,200,244,Mid,https://www.nvidia.com/en-in/geforce/graphics-cards/40-series/rtx-4070-family/,manufacturer
+gpu-04,AMD Radeon RX 6700 XT,AMD,230,267,Mid,https://www.amd.com/en/products/graphics/desktops/radeon/6000-series/amd-radeon-rx-6700-xt.html#product-specs,manufacturer
+gpu-05,ASUS TUF RTX 3070 Ti,ASUS,290,300,High,https://www.asus.com/in/motherboards-components/graphics-cards/tuf-gaming/tuf-rtx3070ti-o8g-gaming/techspec/,manufacturer
